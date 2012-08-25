@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/platinix-cis625/!svn/ver/54/CIS625Project/src/cis625project/messaging
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/platinix-cis625/!svn/ver/53/CIS625Project/src/cis625project/messaging/Message.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/platinix-cis625/!svn/ver/47/CIS625Project/src/cis625project/messaging/MessageType.java
+END
+JmsMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/platinix-cis625/!svn/ver/54/CIS625Project/src/cis625project/messaging/JmsMessaging.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/platinix-cis625/!svn/ver/14/CIS625Project/src/cis625project/messaging/Channel.java
+END
+Messaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/platinix-cis625/!svn/ver/53/CIS625Project/src/cis625project/messaging/Messaging.java
+END
+JmsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/platinix-cis625/!svn/ver/54/CIS625Project/src/cis625project/messaging/JmsMessage.java
+END
